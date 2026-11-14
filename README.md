@@ -10,6 +10,8 @@ I'm passionate about software development, problem-solving, and exploring new te
 - 🚀 Building projects and turning ideas into reality.
 - 🎯 Focused on learning, creating, and growing as a developer.
 
+### Connect with me
+- GitHub: [@ramkourav-dev](https://github.com/ramkourav-dev)
 
 ## 🛠️ Technical Skills
 
@@ -24,6 +26,3 @@ I'm passionate about software development, problem-solving, and exploring new te
 - Flutter Development
 - Mobile App Development
 - Cross-Platform App Development
-
-### Connect with me
-- GitHub: [@ramkourav-dev](https://github.com/ramkourav-dev)
